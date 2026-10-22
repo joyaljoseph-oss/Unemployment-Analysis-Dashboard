@@ -34,7 +34,7 @@ This project demonstrates how data analytics can help explore employment trends,
 
 ## 📸 Screenshots
 
-Dashboard outcome:
+Dashboard outcome: https://github.com/joyaljoseph-oss/Unemployment-Analysis-Dashboard/blob/main/Snapshot%20of%20Unemploment.png
 
 ## Project Outcome
 
